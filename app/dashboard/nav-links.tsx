@@ -8,8 +8,8 @@ import Link from 'next/link';
 // ...
  
 export default function NavLinks() {
-  return (
-   /* <>
+   /* return (
+  <>
       {Link.map((link) => {
         const LinkIcon = link.icon;
         return (
@@ -23,6 +23,6 @@ export default function NavLinks() {
           </Link>
         );
       })}
-    </>*/
-  );
+    </>
+  )*/
 }
